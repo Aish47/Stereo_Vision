@@ -8,7 +8,7 @@ Intrinsic and Extrinsic calibration using OpenCV for single camera.
 ## ZED SDK
 Understanding ZED SDK to use for depth estimation.
 
-## Pedestrian destection and distance estimation 
+## Pedestrian detection and distance estimation 
 2D Object detection using YOLOv5 and distance calculation using stereo vision point cloud data. 
 
 ## Performed Brake Test
