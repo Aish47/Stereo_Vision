@@ -10,3 +10,7 @@ Understanding ZED SDK to use for depth estimation.
 
 ## Pedestrian destection and distance estimation 
 2D Object detection using YOLOv5 and distance calculation using stereo vision point cloud data. 
+
+## Performed Brake Test
+To test the limitations of stereo vision camera. 
+Max depth : 18-20m
